@@ -1,0 +1,10 @@
+server:
+  port: 8082
+
+aws:
+  region: ap-south-1
+  sns:
+    sender-id: DeviceMgmtApp
+
+otp:
+  expiry-minutes: 5
